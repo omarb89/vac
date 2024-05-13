@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Omar\\Vac\\": "src/"
+            "Src\\Classes\\": "src/classes/"
         }
     },
     "authors": [
